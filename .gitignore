@@ -1,2 +1,5 @@
 *.txt
 *.zip
+*.v4_auto_conll
+*.v4_gold_conll
+trial.py
